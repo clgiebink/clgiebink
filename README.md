@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Courtney Giebink and I'm currently a biological scientist with ORAU working at the USFS Northern Research Station in the Carbon Science Group.
+### Hi there 👋 I'm Courtney Giebink and I'm a research scientist with Spatial Informatics Group.
 - 💬 Ask me about working with Forest Inventory and Analysis (FIA) data.
-- 📫 How to reach me: Courtney.Giebink@usda.gov
+- 📫 How to reach me: cgiebink@sig-gis.com
 
 <!--
 **clgiebink/clgiebink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
